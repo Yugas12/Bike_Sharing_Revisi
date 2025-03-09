@@ -1,0 +1,1 @@
+Mohon maaf sebelumnya, ini tidak bisa di deploy di Streamlit karena kendala Laptop tidak mendukung, Tetapi bisa di jalankan dengan local.
